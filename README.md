@@ -18,3 +18,5 @@ Which gives a nice clean image without glare...
 <img src="https://github.com/Team-Resurgent/PCB-Tips/raw/refs/heads/main/images/polarized.png" alt="Without Glare" style="width: 400px; height: auto;">
 
 As an example, you can purchase the iFixes iL37 Microscope Polarized Ring Lights from [here](https://www.aliexpress.us/item/1005007305941640.html).
+
+Thanks to Andr0 for this tip!
