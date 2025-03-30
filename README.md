@@ -9,7 +9,7 @@ For example this an image showing glare reflections and often issue can be much 
 
 <img src="https://github.com/Team-Resurgent/PCB-Tips/raw/refs/heads/main/images/normal.png" alt="With Glare" style="width: 400px; height: auto;">
 
-The answer is to use a polarizer such as
+The answer is to use a polarizer such as (you will alse need another polarizer for lens of microscope)
 
 <img src="https://github.com/Team-Resurgent/PCB-Tips/raw/refs/heads/main/images/ifixes.png" alt="iFixes" style="width: 400px; height: auto;">
 
